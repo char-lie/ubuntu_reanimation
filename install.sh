@@ -1,5 +1,5 @@
 #!/bin/bash
-if ! [ $USER=='root' ] then
+if ! [ $USER=='root' ]; then
     echo "You must be root! Use sudo for this"
     exit 1
 fi
