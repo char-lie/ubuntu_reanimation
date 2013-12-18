@@ -1,4 +1,4 @@
-ubuntu_reanimation
-==================
+Ubuntu reanimation scripts
+==========================
 
-My scripts for installing necessary programms on Ubuntu 12
+My scripts for installing necessary programs on Ubuntu 12
