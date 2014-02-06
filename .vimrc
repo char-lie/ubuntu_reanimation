@@ -1,0 +1,9 @@
+set autoindent
+set cindent
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set nu
+colorscheme slate
+set wildmenu
+set wildmode=list:longest,full
