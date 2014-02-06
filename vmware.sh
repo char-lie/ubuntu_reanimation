@@ -1,7 +1,7 @@
 #!/bin/bash
 # C/C++
 apt-get install linux-headers-$(uname -r) libglib2.0-0
-apt-get install build-essential qtcreator
+apt-get install build-essential
 # SHARED FOLDERS
 mount /dev/cdrom /mnt && \
 	tar xvzf /mnt/VMwareTools-*.tar.gz -C /tmp && \
